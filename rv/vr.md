@@ -1,6 +1,5 @@
 ====== Volební řád ======
 
-
 ==§ 1 Účel volebního řádu ==
 
 (1) Volební řád upravuje se zřetelem na postup stranických orgánů
@@ -191,6 +190,15 @@ Ten, kdo jedná s úřady nebo ostatními politickými subjekty  jménem České
 
 (3) Republikové předsednictvo má pravomoc vyjednávat volební spolupráci ve sněmovních volbách. Republikové předsednictvo může vyjednáváním volební spolupráce na krajské úrovni pověřit krajské předsednictvo.
 
+==§ 22a Senátní volby==
+
+(1) Kandidátní listinu sestavuje krajské fórum toho krajského sdružení, ve kterém je volební obvod senátních voleb. Zasahuje-li volební obvod do území více krajských sdružení, sestavuje se kandidátní listina na společném zasedání jejich krajských fór.(([[/rules/st#cl_7_oblastni_sdruzeni|Čl. 7 odst. 7 stanov]])) Sestavením kandidátní listiny je schválen jednotlivý volební program kandidáta.
+
+(2) Republikové předsednictvo má pravomoc vyjednávat volební spolupráci v senátních volbách, není-li stanoveno jinak. Republikové předsednictvo může vyjednáváním volební spolupráce v určitém volebním obvodu senátních voleb pověřit krajské předsednictvo, do jehož územní působnosti volební obvod senátních voleb zasahuje.
+
+(3) Krajské předsednictvo 
+  * a) organizuje volby na úrovni kraje,
+  * b) předkládá jednotlivý volební program kandidáta a kandidátní listinu republikovému výboru.
 == § 23 Evropské volby ==
 (1) Celostátní fórum sestavuje kandidátní listinu.
 

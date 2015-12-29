@@ -72,7 +72,7 @@ Příprava voleb probíhá podle následujícího harmonogramu:
 
 (3) Do předložení kandidátní listiny lze listinu stejným způsobem doplňovat o další kandidáty, kteří se řadí za již zvolené kandidáty.
 
-(4) Lídr se volí podle pravidel pro volbu předsedy strany ([[rules/jdr#predsednictvo|§30(2) JdŘ]]). Ostatní volby probíhají podle pravidel pro volbu členů republikového výboru ([[rules/jdr#republikovy_vybor|§31(2) JdŘ]]),  ve které se však druhé kolo volby koná povinně. Kandidáti se řadí podle počtu hlasů ve druhém kole. Kandidáti se stejným počtem hlasů ve druhém kole se dále řadí podle počtu hlasů v prvním kole. Nelze-li ani takto pořadí určit, rozhoduje los. Republikový výbor může schválit alternativní volební systémy pro primární volby, které seřadí kandidáty s většinovou podporou jinak. 
+(4) Lídr se volí podle pravidel pro volbu předsedy strany ([[rules/jdr#predsednictvo|§30(2) JdŘ]]). Ostatní volby probíhají podle pravidel pro volbu členů republikového výboru ([[rules/jdr#republikovy_vybor|§31(2) JdŘ]]),  ve které se však druhé kolo volby koná povinně. Kandidáti se řadí podle počtu hlasů ve druhém kole. Kandidáti se stejným počtem hlasů ve druhém kole se dále řadí podle počtu hlasů v prvním kole. Nelze-li ani takto pořadí určit, rozhoduje [[ao/pravidla/cf#los|los]]. Republikový výbor může schválit alternativní volební systémy pro primární volby, které seřadí kandidáty s většinovou podporou jinak. 
 
 (5) Do předložení kandidátní listiny lze jednotlivé kandidáty a náhradníky vyškrtnout a kandidátní listinu jako celek zrušit ([[:rules:jdr#odvolani|§29(1) a §29(2) JdŘ]]). 
 
@@ -88,7 +88,7 @@ Příprava voleb probíhá podle následujícího harmonogramu:
 
 (1) Ve volbách smí za Českou pirátskou stranu kandidovat pouze lidé zvolení v primárních volbách, kteří 
   * a) podepsali čestné prohlášení, které obsahuje náležitosti podle volebního zákona a souhlas kandidáta s demokratickým minimem a programem pro dané volby, a
-  * b) si zřídili na Piratopedii prezentaci obsahující fotografii, životopis, případně osobní priority ve stanoveném formátu.
+  * b) si zřídili na webu prezentaci obsahující fotografii, životopis, případně osobní priority ve stanoveném formátu.
 
 (2) Prezentaci může se souhlasem kandidáta zřídit i jiný člen nebo registrovaný příznivec.
 
@@ -183,5 +183,5 @@ Pravomoc vyjednávat volební spolupráci v krajských volbách má příslušn�
 == §24 Provedení ==
 Předpis provádí administrativní odbor, zejména 
   * a) neprodleně po vyhlášení voleb zveřejňuje harmonogram voleb, jak vyplývá ze zákonů a tohoto předpisu, a zanese ho do Pirátského kalendáře, 
-  * b) vydá vzor prohlášení podle [[#Podmínky kandidatury|§10(1)a]],
+  * b) vydá [[rp/pid/gman/sablony#prohlaseni_kandidata|vzor prohlášení]] podle [[#Podmínky kandidatury|§10(1)a]],
   * c) stanoví formát prezentace kandidátů [[#Podmínky kandidatury|§10(1)b]].

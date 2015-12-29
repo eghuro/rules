@@ -72,7 +72,7 @@ Příprava voleb probíhá podle následujícího harmonogramu:
 
 (3) Do předložení kandidátní listiny lze listinu stejným způsobem doplňovat o další kandidáty, kteří se řadí za již zvolené kandidáty.
 
-(4) Lídr se volí podle pravidel pro volbu předsedy strany ([[:rules:jdr#predsednictvo|§30(2) JdŘ]]), ostatní volby probíhají podle pravidel pro volbu členů republikového výboru ([[:rules:jdr#republikovy_vybor|§31(2) JdŘ]]). Republikový výbor může schválit alternativní volební systémy pro primární volby, které seřadí kandidáty s většinovou podporou jinak.
+(4) Lídr se volí podle pravidel pro volbu předsedy strany ([[rules/jdr#predsednictvo|§30(2) JdŘ]]). Ostatní volby probíhají podle pravidel pro volbu členů republikového výboru ([[rules/jdr#republikovy_vybor|§31(2) JdŘ]]),  ve které se však druhé kolo volby koná povinně. Kandidáti se řadí podle počtu hlasů ve druhém kole. Kandidáti se stejným počtem hlasů ve druhém kole se dále řadí podle počtu hlasů v prvním kole. Nelze-li ani takto pořadí určit, rozhoduje los. Republikový výbor může schválit alternativní volební systémy pro primární volby, které seřadí kandidáty s většinovou podporou jinak. 
 
 (5) Do předložení kandidátní listiny lze jednotlivé kandidáty a náhradníky vyškrtnout a kandidátní listinu jako celek zrušit ([[:rules:jdr#odvolani|§29(1) a §29(2) JdŘ]]). 
 
@@ -159,7 +159,7 @@ Ten, kdo jedná s úřady nebo ostatními politickými subjekty  jménem České
 ==== Volby do zastupitelstev krajů ====
 
 == §21 Organizace krajských voleb ==
-(1) Jednotlivý volební program a kandidátní listinu v krajských volbách sestavuje příslušné krajské fórum.
+(1) Jednotlivý volební program a kandidátní listinu v krajských volbách sestavuje příslušné krajské fórum. Republikovému výboru je předkládá krajské předsednictvo.
 
 (2) Každý kandidát může vydat svůj jednotlivý volební program ve své prezentaci. V mimořádných a odůvodněných případech může příslušné krajské fórum jednotlivý volební program kandidáta nebo jeho část zrušit.
 
@@ -185,5 +185,3 @@ Předpis provádí administrativní odbor, zejména
   * a) neprodleně po vyhlášení voleb zveřejňuje harmonogram voleb, jak vyplývá ze zákonů a tohoto předpisu, a zanese ho do Pirátského kalendáře, 
   * b) vydá vzor prohlášení podle [[#Podmínky kandidatury|§10(1)a]],
   * c) stanoví formát prezentace kandidátů [[#Podmínky kandidatury|§10(1)b]].
-
-

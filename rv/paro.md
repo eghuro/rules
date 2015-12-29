@@ -156,9 +156,11 @@ Není-li v přihlášce předem stanoveno jinak, pro díla vzniklá při řešen
   * b) proplácení výdajů projektu až do výše prostředků na projekt z odpovídající rozpočtové položky,
   * c) na uzavření smlouvy o dílo(([[/ao/sablony/start#pracovne_pravni|vzory smluv]])) na odměnu ([[#odmena|§ 21]]) z odpovídající rozpočtové položky, pokud byla uvedena ve finančních podmínkách projektu ([[#nalezitosti_prihlasky_projektu|§ 7 písm. g)]]), která musí být vyplacena nejpozději do 14 dnů po řádném ukončení projektu.
 
-== § 20 Řádné ukončení projektu ==
+== § 20 Ukončení projektu ==
 
-Projekt nebo úsek projektu je řádně ukončen, pokud řešení projektu nebo jeho úseku ve vymezené nebo dohodou prodloužené době skončilo a řešitel splnil všechny své povinnosti. O řádném ukončení sepíší účastníci projektu záznam.
+(1) Projekt nebo úsek projektu je řádně ukončen, pokud řešení projektu nebo jeho úseku ve vymezené nebo dohodou prodloužené době skončilo a řešitel splnil všechny své povinnosti. O řádném ukončení sepíší účastníci projektu záznam.
+
+(2) Projekt je ukončen nejpozději uplynutím vymezené nebo dohodou prodloužené doby.
 
 == § 21 Odměna ==
 
@@ -172,3 +174,15 @@ Odměna řešiteli nebo jím navrženým osobám je výdajem projektu, který st
 (1) **Výsledek projektu** je dílo vzniklé díky projektu nebo záznam tohoto díla či jiného řešení projektu. Součástí výsledku projektu je také stručná zpráva o řešení projektu, včetně zhodnocení, jak byl dosažen veřejně prospěšný účel. 
 
 (2) Na všech výsledcích je řešitel projektu povinen uvést informaci, že jde o veřejně prospěšný projekt financovaný ze státního příspěvku strany s uvedením odkazu na web strany, ledaže to není ze zvláštního důvodu možné.
+
+== § 22 Evidence projektů ==
+
+(1) Informace o zahájených projektech se evidují v informačním systému, který vede administrativní odbor.
+
+(2) V informačním systému se eviduje zejména:
+  * a) jméno řešitele projektu ([[#ucastnici_projektu|§ 4(1)a]]),
+  * b) název projektu ([[#nalezitosti_prihlasky_projektu|§ 7(2)a]]),
+  * c) údaj, zda je projekt zahájen ([[#zahajeni_projektu|§ 12]]), ukončen, nebo řádně ukončen ([[#ukonceni_projektu|§ 20]]),
+  * d) datum zahájení a termín řádného ukončení projektu, včetně případného prodloužení.
+
+(3) Údaje se v informačním systému uchovávají po dobu 3 let od ukončení projektu.

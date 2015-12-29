@@ -3,11 +3,12 @@
 ==§ 1 Účel volebního řádu ==
 
 (1) Volební řád upravuje se zřetelem na postup stranických orgánů
-  * a) sněmovní volby,(([[http://www.zakonyprolidi.cz/cs/1995-247#cast1-oddil2|§ 24 a násl.]] zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky.))
-  * b) senátní volby,(([[http://www.zakonyprolidi.cz/cs/1995-247#cast1-oddil3|§56 a násl.]] zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky.))
-  * c) evropské volby,(([[http://www.zakonyprolidi.cz/cs/2003-62|Zákon č. 62/2003 Sb., o volbách do Evropského parlamentu]].))
-  * d) krajské volby,(([[http://www.zakonyprolidi.cz/cs/2000-130|Zákon č. 130/2000 Sb., o volbách do zastupitelstev krajů]].))
-  * e) prezidentské volby.(([[http://www.zakonyprolidi.cz/cs/2012-275|Zákon č. 275/2012 Sb., o volbě prezidenta republiky]].))
+  * a) komunální volby.(([[http://zakony-online.cz/?s187&q187=all|Zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí]]))
+  * b) krajské volby,(([[http://www.zakonyprolidi.cz/cs/2000-130|Zákon č. 130/2000 Sb., o volbách do zastupitelstev krajů]].))
+  * c) sněmovní volby,(([[http://www.zakonyprolidi.cz/cs/1995-247#cast1-oddil2|§ 24 a násl.]] zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky.))
+  * d) senátní volby,(([[http://www.zakonyprolidi.cz/cs/1995-247#cast1-oddil3|§56 a násl.]] zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky.))
+  * e) evropské volby,(([[http://www.zakonyprolidi.cz/cs/2003-62|Zákon č. 62/2003 Sb., o volbách do Evropského parlamentu]].))
+  * f) prezidentské volby.(([[http://www.zakonyprolidi.cz/cs/2012-275|Zákon č. 275/2012 Sb., o volbě prezidenta republiky]].))
 
 (2) Účelem stanoveného postupu je zajistit, aby strana
   * a) včas veřejnosti představila volební program, lídra a kandidáty pro dané volby,
@@ -26,7 +27,7 @@ Zakazuje se podpora programu nebo vystupování, které se příčí základním
   * b) si navzájem vypomáhat v kampani.
 
 (2) Pro platnost volební spolupráce je třeba včas ([[#p5|§5]])  
-  * a) oznámit republikovému výboru na internetovém fóru záměr o ní jednat aspoň 3 týdny před jejím uzavřením a
+  * a) oznámit republikovému výboru na internetovém fóru záměr o ní jednat aspoň 1 týden před jejím uzavřením a
   * b) uzavřít o ní písemnou smlouvu vymezující podmínky spolupráce. 
 
 == § 4 Termín přihlášení ==
@@ -80,7 +81,7 @@ Splnění podmínek u všech kandidátů zkontroluje před primárními volbami 
   * a) lze kandidátní listinu stejným způsobem doplňovat o další kandidáty, kteří se řadí za již zvolené kandidáty, 
   * b) lze usnesením jednotlivého kandidáta nebo náhradníka odvolat anebo kandidátní listinu jako celek zrušit.
 
-(4) Lídr se volí podle pravidel pro volbu předsedy strany ([[rules/jdr#p30-2|§30(2) JdŘ]]). Ostatní volby probíhají podle pravidel pro volbu členů republikového výboru ([[rules/jdr#p31-2|§31(2) JdŘ]]),  ve které se však druhé kolo volby koná povinně. Kandidáti se řadí podle počtu hlasů ve druhém kole. Kandidáti se stejným počtem hlasů ve druhém kole se dále řadí podle počtu hlasů v prvním kole. Nelze-li ani takto pořadí určit, rozhoduje [[ao/pravidla/cf#los|los]]. 
+(4) Primární volby probíhají přiměřeně pravidlům pro volbu do orgánu strany voleného celostátním fórem.(([[/rules/jdr#hlasovani|§ 12]] jednacího řádu celostátního fóra))
 
 (5) Republikový výbor může schválit alternativní volební systémy pro primární volby, které seřadí kandidáty s většinovou podporou jinak. 
 
@@ -124,11 +125,12 @@ Volební programy se člení na
 == § 14 Společný volební program ==
 <div #p14>
 Republikový výbor schvaluje následující volební programy společné pro všechny volby daného druhu:
-  * a) evropský program pro volby do Evropského parlamentu,
-  * b) sněmovní program pro volby do Poslanecké sněmovny Parlamentu České republiky,
-  * c) senátní program pro volby do Senátu Parlamentu České republiky,
-  * d) krajský program pro volby do zastupitelstev krajů,
-  * e) prezidentský volební program pro volbu prezidenta České republiky.
+  * a) komunální program pro volby do zastupitelstev obcí,
+  * b) krajský program pro volby do zastupitelstev krajů,
+  * c) sněmovní program pro volby do Poslanecké sněmovny Parlamentu České republiky,
+  * d) senátní program pro volby do Senátu Parlamentu České republiky,
+  * e) evropský program pro volby do Evropského parlamentu,
+  * f) prezidentský volební program pro volbu prezidenta České republiky.
 </div>
 == § 15 Jednotlivý volební program==
 <div #p15>
@@ -169,6 +171,17 @@ Ten, kdo jedná s úřady nebo ostatními politickými subjekty  jménem České
 
 ===== Část zvláštní =====
 
+==§ 20a Komunální volby==
+(1) Oblastní fórum toho oblastního sdružení, ve kterém je obec, do jejíhož zastupitelstva se volí,
+  * a) volí lídra kandidátní listiny v primárních volbách,
+  * b) volí čelní kandidáty a ostatní kandidáty na kandidátní listině v primárních volbách, není-li stanoveno jinak,
+  * c) může doplňovat kandidátní listinu sestavenou v primárních volbách o další kandidáty usnesením i bez konání primárních voleb.
+
+(2) Příslušné oblastní předsednictvo
+  * a) organizuje primární volby,
+  * b) má pravomoc vyjednávat volební spolupráci, není-li stanoveno jinak,
+  * c) předkládá kandidátní listinu republikovému výboru.
+
 == § 21 Krajské volby ==
 
 (1) Krajské fórum 
@@ -192,7 +205,7 @@ Ten, kdo jedná s úřady nebo ostatními politickými subjekty  jménem České
 
 ==§ 22a Senátní volby==
 
-(1) Kandidátní listinu sestavuje krajské fórum toho krajského sdružení, ve kterém je volební obvod senátních voleb. Zasahuje-li volební obvod do území více krajských sdružení, sestavuje se kandidátní listina na společném zasedání jejich krajských fór.(([[/rules/st#cl_7_oblastni_sdruzeni|Čl. 7 odst. 7 stanov]])) Sestavením kandidátní listiny je schválen jednotlivý volební program kandidáta.
+(1) Kandidátní listinu sestavuje krajské fórum toho krajského sdružení, ve kterém je volební obvod senátních voleb. Sestavením kandidátní listiny je schválen jednotlivý volební program kandidáta.
 
 (2) Republikové předsednictvo má pravomoc vyjednávat volební spolupráci v senátních volbách, není-li stanoveno jinak. Republikové předsednictvo může vyjednáváním volební spolupráce v určitém volebním obvodu senátních voleb pověřit krajské předsednictvo, do jehož územní působnosti volební obvod senátních voleb zasahuje.
 
@@ -223,6 +236,13 @@ Ten, kdo jedná s úřady nebo ostatními politickými subjekty  jménem České
 ===== Závěrečná ustanovení =====
 == § 23b Koaliční spolupráce ==
 Při koaliční spolupráci platí obdobně ustanovení o volebním programu pro volební program koalice a ustanovení o primárních volbách v rozsahu míst na kandidátní listině koalice. /* Tj. koaliční kandidátní listina je volena v primárních volbách, resp. místa na ní, a program koalice se předkládá také danému orgánu. */ 
+
+==§ 23c Volební rozhodnutí==
+Volebními rozhodnutími jsou primární volby a další rozhodnutí, kterými se schvaluje, mění nebo ruší kandidátní listina nebo volební program, jakož i pověření příslušného oblastního předsednictva v nejednoznačném případě.
+
+==§ 23d Nejednoznačná příslušnost sdružení==
+V nejednoznačném případě se určí příslušná oblastní sdružení tak, aby celkové území, na které se vztahuje jejich působnost, bylo co nejmenší a ještě pokrývalo území volebního obvodu.
+Volební rozhodnutí se pak přijímají na společném zasedání příslušných oblastních fór.8) Společné zasedání lze nahradit dílčími jednáními všech příslušných oblastních fór, přičemž počty hlasů získané na dílčích jednáních se posuzují v součtu.
 
 == § 24 Provedení ==
 (1) Předpis provádí administrativní odbor, zejména 

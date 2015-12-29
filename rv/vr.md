@@ -3,7 +3,7 @@
 ==§ 1 Účel volebního řádu ==
 
 (1) Volební řád upravuje se zřetelem na postup stranických orgánů
-  * a) komunální volby.(([[http://zakony-online.cz/?s187&q187=all|Zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí]]))
+  * a) komunální volby,(([[http://zakony-online.cz/?s187&q187=all|Zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí]]))
   * b) krajské volby,(([[http://www.zakonyprolidi.cz/cs/2000-130|Zákon č. 130/2000 Sb., o volbách do zastupitelstev krajů]].))
   * c) sněmovní volby,(([[http://www.zakonyprolidi.cz/cs/1995-247#cast1-oddil2|§ 24 a násl.]] zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky.))
   * d) senátní volby,(([[http://www.zakonyprolidi.cz/cs/1995-247#cast1-oddil3|§56 a násl.]] zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky.))
@@ -143,7 +143,7 @@ Republikový výbor schvaluje následující volební programy společné pro v�
 
 ==== Dohled nad volbami ====
 
-== § 16 Dohled nad volební spoluprácí ==
+== § 16 Dohled nad volební spoluprací ==
 
 Republikový výbor smí 
   * a) zakázat jednání o volební spolupráci,
@@ -182,6 +182,7 @@ Ten, kdo jedná s úřady nebo ostatními politickými subjekty  jménem České
   * b) má pravomoc vyjednávat volební spolupráci, není-li stanoveno jinak,
   * c) předkládá kandidátní listinu republikovému výboru.
 
+(3) V případě, že nemá jít o lídra ani čelního kandidáta, nemusí být kandidát členem ani registrovaným příznivcem České pirátské strany a nevztahuje se na něj ustanovení § 10 odst. (1) písm. b).
 == § 21 Krajské volby ==
 
 (1) Krajské fórum 
@@ -242,7 +243,7 @@ Volebními rozhodnutími jsou primární volby a další rozhodnutí, kterými s
 
 ==§ 23d Nejednoznačná příslušnost sdružení==
 V nejednoznačném případě se určí příslušná oblastní sdružení tak, aby celkové území, na které se vztahuje jejich působnost, bylo co nejmenší a ještě pokrývalo území volebního obvodu.
-Volební rozhodnutí se pak přijímají na společném zasedání příslušných oblastních fór.8) Společné zasedání lze nahradit dílčími jednáními všech příslušných oblastních fór, přičemž počty hlasů získané na dílčích jednáních se posuzují v součtu.
+Volební rozhodnutí se pak přijímají na společném zasedání příslušných oblastních fór.(([[/rules/st#cl_7_oblastni_sdruzeni|Čl. 7 odst. 7 stanov]])) Společné zasedání lze nahradit dílčími jednáními všech příslušných oblastních fór, přičemž počty hlasů získané na dílčích jednáních se posuzují v součtu.
 
 == § 24 Provedení ==
 (1) Předpis provádí administrativní odbor, zejména 

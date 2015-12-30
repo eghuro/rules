@@ -110,7 +110,7 @@ Dodáním zprávy podle tohoto ustanovení platí zpráva za doručenou.
 
 == § 14 Zánik účasti na projektu ==
 
-(1) Účast strany na projektu nezaniká. Důvodem zániku účasti řešitele na projektu je jen pozbytí způsobilosti být účastníkem projektu nebo závažné porušení povinností řešitele ([[#povinnosti_resitele_projektu|§ 18]]). 
+(1) Účast strany na projektu nezaniká. Důvodem zániku účasti řešitele na projektu je jen pozbytí způsobilosti být účastníkem projektu, závažné porušení povinností řešitele ([[#povinnosti_resitele_projektu|§ 18]]) nebo ukončení projektu ([[#ukonceni_projektu|§ 20]]). 
 
 (2) Porušení povinnosti se může dovolat jen účastník, který ho nezpůsobil a je jím dotčen. U nepodstatného porušení smlouvy se požaduje předchozí výzva k nápravě s upozorněním na hrozící následky.
 
@@ -158,7 +158,7 @@ Není-li v přihlášce předem stanoveno jinak, pro díla vzniklá při řešen
 
 (1) Projekt nebo úsek projektu je řádně ukončen, pokud řešení projektu nebo jeho úseku ve vymezené nebo dohodou prodloužené době skončilo a řešitel splnil všechny své povinnosti. O řádném ukončení sepíší účastníci projektu záznam.
 
-(2) Projekt je ukončen nejpozději uplynutím vymezené nebo dohodou prodloužené doby.
+(2) Projekt je ukončen nejpozději uplynutím vymezené nebo dohodou prodloužené doby. Po ukončení projektu nelze uplatnit práva řešitele projektu.
 
 == § 21 Odměna ==
 
@@ -173,10 +173,10 @@ Odměna řešiteli nebo jím navrženým osobám je výdajem projektu, který st
 
 == § 22 Evidence projektů ==
 
-(1) Informace o zahájených projektech se evidují v informačním systému, který vede administrativní odbor.
+(1) Informace o zahájených a ukončených projektech se evidují v informačním systému, který vede administrativní odbor.
 
 (2) V informačním systému se eviduje zejména:
-  * a) jméno řešitele projektu ([[#ucastnici_projektu|§ 4(1)a]]),
+  * a) jméno řešitele projektu ([[#ucastnici_projektu|§ 4(1)a]]) i v případě, kdy došlo k zániku účasti na projektu,
   * b) název projektu ([[#nalezitosti_prihlasky_projektu|§ 7(2)a]]),
   * c) údaj, zda je projekt zahájen ([[#zahajeni_projektu|§ 12]]), ukončen, nebo řádně ukončen ([[#ukonceni_projektu|§ 20]]),
   * d) datum zahájení a termín řádného ukončení projektu, včetně případného prodloužení.

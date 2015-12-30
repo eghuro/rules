@@ -169,9 +169,7 @@ Odměna řešiteli nebo jím navrženým osobám je výdajem projektu, který st
 
 == § 22 Výsledek projektu==
 
-(1) **Výsledek projektu** je dílo vzniklé díky projektu nebo záznam tohoto díla či jiného řešení projektu. Součástí výsledku projektu je také stručná zpráva o řešení projektu, včetně zhodnocení, jak byl dosažen veřejně prospěšný účel. 
-
-(2) Na všech výsledcích je řešitel projektu povinen uvést informaci, že jde o veřejně prospěšný projekt financovaný ze státního příspěvku strany s uvedením odkazu na web strany, ledaže to není ze zvláštního důvodu možné.
+**Výsledek projektu** je dílo vzniklé díky projektu nebo záznam tohoto díla či jiného řešení projektu. Součástí výsledku projektu je také stručná zpráva o řešení projektu, včetně zhodnocení, jak byl dosažen veřejně prospěšný účel. 
 
 == § 22 Evidence projektů ==
 
